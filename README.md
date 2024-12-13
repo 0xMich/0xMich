@@ -1,13 +1,12 @@
-# Hello, I'm [Your Name] 👋
+# 🌸・Hi !
 
-Welcome to my GitHub profile! I'm a developer passionate about web technologies, with a specialization in [technologies you master, e.g. Vue.js, Laravel, etc.]. I love exploring new solutions and building innovative projects.
+I’m Adélaïde!
 
-## About Me
+I create stuff, sometimes. I make apps that work on apple platforms, using Swift and SwiftUI (along with UI/AppKit for few tweaks) !
 
-- 🔭 Currently, I'm working on [project or domain name, e.g. an email signature management application].
-- 🌱 I'm constantly learning [new technologies or concepts you're exploring, e.g. Kubernetes, Cloud, etc.].
-- 👯 I'm looking to collaborate on [types of projects or fields that interest you, e.g. open-source, web development, etc.].
-- ⚡ Fun fact: [something interesting or light about you, e.g. "I love coffee and coding in the morning."].
+I also know a bit of python, and may play a bit with server-side stuff.
+
+I’m Swift Student Challenge 2024 Distinguished Winner !
 
 ## My Projects
 
@@ -28,9 +27,5 @@ Welcome to my GitHub profile! I'm a developer passionate about web technologies,
 - LinkedIn: [Your LinkedIn profile](your LinkedIn link)
 - Twitter: [Your Twitter profile](your Twitter link)
 - Portfolio: [Your portfolio or personal website](your portfolio link)
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-name&show_icons=true&count_private=true&theme=radical)
 
 Thank you for visiting my profile! Feel free to reach out for any collaboration or questions.
