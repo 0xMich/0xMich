@@ -1,36 +1,36 @@
-# Bonjour, je suis [Ton Nom] 👋
+# Hello, I'm [Your Name] 👋
 
-Bienvenue sur mon profil GitHub ! Je suis développeur passionné par les technologies web, avec une spécialisation en [technologies que tu maîtrises, ex. Vue.js, Laravel, etc.]. J'aime explorer de nouvelles solutions et créer des projets innovants. 
+Welcome to my GitHub profile! I'm a developer passionate about web technologies, with a specialization in [technologies you master, e.g. Vue.js, Laravel, etc.]. I love exploring new solutions and building innovative projects.
 
-## À propos de moi
+## About Me
 
-- 🔭 Actuellement, je travaille sur [nom du projet ou du domaine, ex. une application de gestion des signatures d'emails].
-- 🌱 J'apprends constamment [les nouvelles technologies ou concepts que tu explores, ex. Kubernetes, Cloud, etc.].
-- 👯 Je cherche à collaborer sur des projets [type de projets ou domaines qui t'intéressent, ex. open-source, développement web, etc.].
-- ⚡ Fun fact : [quelque chose d'intéressant ou de léger à propos de toi, ex. "J'adore le café et coder le matin."].
+- 🔭 Currently, I'm working on [project or domain name, e.g. an email signature management application].
+- 🌱 I'm constantly learning [new technologies or concepts you're exploring, e.g. Kubernetes, Cloud, etc.].
+- 👯 I'm looking to collaborate on [types of projects or fields that interest you, e.g. open-source, web development, etc.].
+- ⚡ Fun fact: [something interesting or light about you, e.g. "I love coffee and coding in the morning."].
 
-## Mes projets
+## My Projects
 
-### [Nom du projet 1]
-[Description brève du projet et du but]
+### [Project Name 1]
+[Brief description of the project and its purpose]
 
-- Techs utilisées : [Vue.js, Laravel, etc.]
-- Lien vers le repo : [GitHub - Nom du projet](lien du projet)
+- Techs used: [Vue.js, Laravel, etc.]
+- Repo link: [GitHub - Project Name](project link)
 
-### [Nom du projet 2]
-[Description brève du projet et du but]
+### [Project Name 2]
+[Brief description of the project and its purpose]
 
-- Techs utilisées : [Technologies]
-- Lien vers le repo : [GitHub - Nom du projet](lien du projet)
+- Techs used: [Technologies]
+- Repo link: [GitHub - Project Name](project link)
 
-## Me suivre
+## Follow Me
 
-- LinkedIn: [Ton profil LinkedIn](ton lien LinkedIn)
-- Twitter: [Ton profil Twitter](ton lien Twitter)
-- Portfolio: [Ton portfolio ou site personnel](ton lien portfolio)
+- LinkedIn: [Your LinkedIn profile](your LinkedIn link)
+- Twitter: [Your Twitter profile](your Twitter link)
+- Portfolio: [Your portfolio or personal website](your portfolio link)
 
-## Statistiques
+## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-nom&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-name&show_icons=true&count_private=true&theme=radical)
 
-Merci de visiter mon profil ! N'hésite pas à me contacter pour toute collaboration ou question.
+Thank you for visiting my profile! Feel free to reach out for any collaboration or questions.
