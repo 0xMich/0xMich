@@ -1,12 +1,5 @@
-# 🌸・Hi !
+# 🌸・Hello !
 
-I’m Adélaïde!
-
-I create stuff, sometimes. I make apps that work on apple platforms, using Swift and SwiftUI (along with UI/AppKit for few tweaks) !
-
-I also know a bit of python, and may play a bit with server-side stuff.
-
-I’m Swift Student Challenge 2024 Distinguished Winner !
 
 ## My Projects
 
