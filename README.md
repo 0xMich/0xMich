@@ -1,6 +1,6 @@
 ## 0xMich
 
-![image.png](./Nouveauprojet.png)
+![image.png](./image.png)
 
 ## 👋・Hello !
 I'm Michel !
