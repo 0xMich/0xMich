@@ -3,7 +3,7 @@
 ![image.png](./Nouveauprojet.png)
 
 ## 👋・Hello !
-I'm Michel ! \
+I'm Michel !
 
 I'm a passionate developer with a knack for exploring new solutions and building innovative projects. 
 I'm proficient in various programming languages, including HTML, CSS, JavaScript, Lua, PHP, Python, and C#.
