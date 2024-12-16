@@ -10,7 +10,7 @@ I have experience with a range of programming languages, including HTML, CSS, Ja
 
 ## 🌱・My projects
 
-### Cab Dashboard & Mail Auto Banner
+### Boulouais urban community [France] Dashboard & Mail Auto Banner
 I am working on a platform that allows administrators to manage email signatures and communication banners in Outlook. \
 The platform will automatically generate HTML and CSS banners for email signatures, which can be customized via a dashboard. \
 Administrators can modify the banner link, and the update is sent through a PowerShell script to network PCs via a GPO.
