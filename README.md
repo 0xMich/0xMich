@@ -24,6 +24,29 @@ The database is used to retrieve categories and components, enabling dynamic upd
 
 - Techs used: Nuxt.js [Vue.JS Framework], Scss, Node.js, MySQL
 
+## 💻 Tools & Programming languages I use 
+<a href="#" target="_blank">
+<img alt="VisualStudio" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />
+<img alt="VSCode" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
+<img alt="WebStorm" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/WebStorm-Dark.svg" />
+<img alt="PhpStorm" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PhpStorm-Dark.svg" />
+  
+<img alt="PyCharm" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" />
+<img alt="Clion" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CLion-Dark.svg" />
+<img alt="Rider" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rider-Dark.svg" />
+<img alt="CMake" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" />
+<br>
+<img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+<img alt="Css" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+<img alt="JavaScript" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+<img alt="php" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
+<img alt="TypeScript" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
+<img alt="Python" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+<img alt="c" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
+<img alt="csharp" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
+<br>
+<img alt="Wordpress" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" />
+
 ## 📮・Contact
 - Twitter: https://x.com/_misterpc
 - Discord: @Mister PC
