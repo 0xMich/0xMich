@@ -46,6 +46,6 @@ The database is used to retrieve categories and components, enabling dynamic upd
 
 
 ## 📮・Contact
-- Twitter: <a href="https://x.com/_misterpc" target="_blank">_misterpc</a>
+- Twitter: https://x.com/_misterpc
 - Discord: @Mister PC
 - Discord Server: https://discord.gg/paXY7TTUeK
