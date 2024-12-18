@@ -27,6 +27,12 @@ The database is used to retrieve categories and components, enabling dynamic upd
 ## 💻・Tools & Programming languages I use
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,ts,vue,nuxt,nodejs,py,php,laravel,cs,lua)](https://skillicons.dev)<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=wordpress,figma,vscode,visualstudio,unity,linux,windows,powershell)](https://skillicons.dev)<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 ## 📮・Contact
 - Twitter: https://x.com/_misterpc
 - Discord: @.misterpc
