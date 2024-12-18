@@ -6,7 +6,7 @@
 I'm Michel !
 
 I’m a junior developer passionate about finding creative solutions and working on innovative projects. \
-I have experience with a range of programming languages, including HTML, CSS, JavaScript, Lua, PHP, Python, and C#, and enjoy working with frameworks like Laravel, Vue.js, and Nuxt.js to build efficient and scalable applications.
+I have experience with a range of programming languages and enjoy working with frameworks.
 
 ## 🌱・My projects
 
