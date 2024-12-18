@@ -40,9 +40,8 @@ The database is used to retrieve categories and components, enabling dynamic upd
 <img alt="Css" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img alt="JavaScript" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 <img alt="php" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
-<img alt="TypeScript" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" />
 <img alt="Python" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-<img alt="c" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
+<img alt="c" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
 <img alt="csharp" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
 <br>
 <img alt="Wordpress" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" />
