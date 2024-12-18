@@ -29,7 +29,6 @@ The database is used to retrieve categories and components, enabling dynamic upd
 <img alt="VisualStudio" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />
 <img alt="VSCode" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
 <img alt="WebStorm" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/WebStorm-Dark.svg" />
-<img alt="PhpStorm" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PhpStorm-Dark.svg" />
 <br>
 <br>
 <img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
