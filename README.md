@@ -24,7 +24,7 @@ The database is used to retrieve categories and components, enabling dynamic upd
 
 - Techs used: Nuxt.js [Vue.JS Framework], Scss, Node.js, MySQL
 
-## 💻 Tools & Programming languages I use 
+## 💻・Tools & Programming languages I use 
 <a href="#" target="_blank">
 <img alt="VisualStudio" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />
 <img alt="VSCode" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
