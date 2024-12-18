@@ -30,20 +30,14 @@ The database is used to retrieve categories and components, enabling dynamic upd
 <img alt="VSCode" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
 <img alt="WebStorm" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/WebStorm-Dark.svg" />
 <img alt="PhpStorm" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PhpStorm-Dark.svg" />
-  
-<img alt="PyCharm" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" />
-<img alt="Clion" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CLion-Dark.svg" />
-<img alt="Rider" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rider-Dark.svg" />
-<img alt="CMake" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" />
 <br>
 <img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img alt="Css" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img alt="JavaScript" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 <img alt="php" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
 <img alt="Python" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-<img alt="Lua" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-White.svg" />
+<img alt="Lua" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
 <img alt="csharp" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
-<br>
 <img alt="Wordpress" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" />
 </div>
 
