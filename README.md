@@ -25,25 +25,7 @@ The database is used to retrieve categories and components, enabling dynamic upd
 - Techs used: Nuxt.js [Vue.JS Framework], Scss, Node.js, MySQL
 
 ## 💻・Tools & Programming languages I use
-<div>
-<img alt="VisualStudio" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />
-<img alt="VSCode" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
-<img alt="WebStorm" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/WebStorm-Dark.svg" />
-<br>
-<br>
-<img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
-<img alt="Css" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
-<img alt="JavaScript" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
-<img alt="Vue" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" />
-<img alt="Nuxt" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" />
-<img alt="php" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
-<img alt="Laravel" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" />
-<img alt="Python" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-<img alt="Lua" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
-<img alt="csharp" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
-<img alt="Wordpress" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" />
-</div>
-
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,ts,vue,nuxt,nodejs,py,php,laravel,cs,lua,wordpress,figma,vscode,visualstudio,unity,linux,windows,powershell)](https://skillicons.dev)<br/>
 
 ## 📮・Contact
 - Twitter: https://x.com/_misterpc
