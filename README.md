@@ -35,7 +35,10 @@ The database is used to retrieve categories and components, enabling dynamic upd
 <img alt="HTML5" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
 <img alt="Css" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
 <img alt="JavaScript" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+<img alt="Vue" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vue.svg" />
+<img alt="Nuxt" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nuxt" />
 <img alt="php" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
+<img alt="Laravel" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel" />
 <img alt="Python" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
 <img alt="Lua" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" />
 <img alt="csharp" width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
