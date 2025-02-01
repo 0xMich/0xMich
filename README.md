@@ -25,7 +25,7 @@ The database is used to retrieve categories and components, enabling dynamic upd
 - Techs used: Nuxt.js [Vue.JS Framework], Scss, Node.js, MySQL
 
 ## 💻・Skills and masteries
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,vue,nuxt,php,cs,lua)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,vue,py,php,cs,lua)](https://skillicons.dev)
 <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=git,wordpress,figma,vscode,visualstudio,linux,windows)](https://skillicons.dev)<br/>
 
