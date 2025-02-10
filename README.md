@@ -15,7 +15,7 @@ I am working on a platform that allows administrators to manage email signatures
 The platform will automatically generate HTML and CSS banners for email signatures, which can be customized via a dashboard. \
 Administrators can modify the banner link, and the update is sent through a PowerShell script to network PCs via a GPO.
 
-- Techs used: Vue.js, Scss, Laravel, PowerShell, LDAPS, Active Directory
+- Techs used: Vue.js, Scss, PowerShell, LDAPS, Active Directory
 
 ### PC Configuration & Database Management
 This project involves creating a web application with Nuxt.js that allows users to configure PC components. \
