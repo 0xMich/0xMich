@@ -11,18 +11,16 @@ I have experience with a range of programming languages and enjoy working with f
 ## 🌱・My projects
 
 ### Boulonais Urban Community [North of France] Dashboard & Mail Auto Banner
-I am working on a platform that allows administrators to manage email signatures and communication banners in Outlook. \
-The platform will automatically generate HTML and CSS banners for email signatures, which can be customized via a dashboard. \
-Administrators can modify the banner link, and the update is sent through a PowerShell script to network PCs via a GPO.
+I worked on a platform designed to manage email signatures and communication banners in Outlook. This platform allows administrators to automatically generate HTML and CSS banners for email signatures, which can be customized through an intuitive dashboard.
+Administrators can update the banner link, and changes are automatically propagated via a PowerShell script deployed to network PCs using a GPO (Group Policy Object).
 
-- Techs used: Vue.js, Scss, PowerShell, LDAPS, Active Directory
+- **Technologies used** : Vue.js, Scss, PowerShell, LDAPS, Active Directory
 
 ### PC Configuration & Database Management
-This project involves creating a web application with Nuxt.js that allows users to configure PC components. \
-The platform provides an easy way to manage hardware and software configurations, with a user-friendly interface to add, edit, and view configurations. \
-The database is used to retrieve categories and components, enabling dynamic updates and storage.
+This project involved developing a web application using Nuxt.js that enables users to configure hardware and software components for PCs. The platform provides a user-friendly interface to add, modify, and display configurations, simplifying IT resource management.
+The database is used to retrieve categories and components, enabling dynamic updates and centralized storage of configurations.
 
-- Techs used: Nuxt.js [Vue.JS Framework], Scss, Node.js, MySQL
+- **Technologies used** : Nuxt.js (Vue.js framework), Scss, Node.js, MySQL
 
 ## 💻・Skills and masteries
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,vue,py,php,laravel,nodejs,expressjs,cs,lua)](https://skillicons.dev)
