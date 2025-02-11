@@ -22,7 +22,7 @@ The database is used to retrieve categories and components, enabling dynamic upd
 
 - **Technologies used** : Nuxt.js (Vue.js framework), Scss, Node.js, MySQL
 
-<img src="./Config.png" alt="Description de l'image" width="500"/>
+<img src="./Config2.png" alt="Description de l'image" width="500"/>
 
 ## 💻・Skills and masteries
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,vue,py,php,laravel,nodejs,expressjs,cs,lua)](https://skillicons.dev)
