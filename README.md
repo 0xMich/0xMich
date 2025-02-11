@@ -30,6 +30,4 @@ The database is used to retrieve categories and components, enabling dynamic upd
 [![SkillIcons](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,wordpress,figma)](https://skillicons.dev)<br/>
 
 ## 📮・Contact
-- Twitter: https://x.com/_misterpc
 - Discord: @.misterpc
-- Discord Server: https://discord.gg/paXY7TTUeK
